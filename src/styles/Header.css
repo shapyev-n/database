@@ -1,0 +1,21 @@
+#header {
+    padding: 12px 0;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav {
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav a {
+    color: black;
+    font-size: 19px;
+}

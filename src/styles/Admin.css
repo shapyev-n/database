@@ -1,0 +1,17 @@
+
+
+.admin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 70vh;
+}
+
+.admin-inputs 
+{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 400px;
+}
+
